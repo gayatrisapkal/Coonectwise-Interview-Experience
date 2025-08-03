@@ -35,4 +35,4 @@ Why this company?
 
 Strongness and Weakness explain
 
-Unfortunately I am able to reach only to the Interview Round.
+Unfortunately I am able to reach only to the Technical Interview Round.
